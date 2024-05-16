@@ -1,0 +1,1 @@
+web: java -jar build/libs/desafio-publicando-api-rest-na-nuvem-api-0.0.1-SNAPSHOT.jar
